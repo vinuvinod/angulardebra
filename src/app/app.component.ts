@@ -22,8 +22,7 @@ import { ProductService } from './products/product.service';
 </div>
 `,
   styleUrls: ['./app.component.css'],
-  providers: [ProductService]
 })
 export class AppComponent {
-  title = 'Acme Product Management';
+  title = 'app';
 }
